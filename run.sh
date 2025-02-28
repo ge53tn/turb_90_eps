@@ -2,6 +2,12 @@
 
 cd 00_simpleFoam
 
+blockMesh > log.blockMesh 2>&1
+
+surfaceFeatureExtract > log.surfaceFeatureExtract 2>&1
+
+snappyHexMesh -overwrite > log.snappyHexMesh 2>&1
+
 rm -rf 0
 
 rm log.*
