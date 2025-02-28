@@ -280,7 +280,7 @@ addLayersControls
 // where to undo.
 meshQualityControls
 {
-    #include "/opt/openfoam7/etc/caseDicts/mesh/generation/meshQualityDict"
+    #include "/opt/openfoam6/etc/caseDicts/mesh/generation/meshQualityDict"
 
 
     // Advanced
