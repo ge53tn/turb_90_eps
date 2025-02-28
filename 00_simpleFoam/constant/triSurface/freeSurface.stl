@@ -1,0 +1,114 @@
+solid freeSurface
+facet normal -0 0 1
+ outer loop
+  vertex 0.320001 1e-06 1.54
+  vertex 0.37966487 0.45319316 1.54
+  vertex 1e-06 1e-06 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 1e-06 1e-06 1.54
+  vertex 0.37966487 0.45319316 1.54
+  vertex 0.07056861 0.5360153 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 0.07056861 0.5360153 1.54
+  vertex 0.37966487 0.45319316 1.54
+  vertex 0.5545905 0.875501 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 0.07056861 0.5360153 1.54
+  vertex 0.5545905 0.875501 1.54
+  vertex 0.2774624 1.035501 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 0.2774624 1.035501 1.54
+  vertex 0.5545905 0.875501 1.54
+  vertex 0.832857 1.238145 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 0.2774624 1.035501 1.54
+  vertex 0.832857 1.238145 1.54
+  vertex 0.6065829 1.4644191 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 0.6065829 1.4644191 1.54
+  vertex 0.832857 1.238145 1.54
+  vertex 1.195501 1.5164114 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 0.6065829 1.4644191 1.54
+  vertex 1.195501 1.5164114 1.54
+  vertex 1.035501 1.7935396 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 1.035501 1.7935396 1.54
+  vertex 1.195501 1.5164114 1.54
+  vertex 1.6178088 1.6913371 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 1.035501 1.7935396 1.54
+  vertex 1.6178088 1.6913371 1.54
+  vertex 2.071001 1.751001 1.54
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 7.571001 1.411001 1.54
+  vertex 7.571001 2.411001 1.54
+  vertex 2.071001 1.751001 1.54
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 2.071001 1.751001 1.54
+  vertex 7.571001 2.411001 1.54
+  vertex 2.071001 2.071001 1.54
+ endloop
+endfacet
+facet normal -0 0 1
+ outer loop
+  vertex 2.071001 1.751001 1.54
+  vertex 2.071001 2.071001 1.54
+  vertex 1.5349867 2.0004334 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 7.571001 1.411001 1.54
+  vertex 22.571001 1.411001 1.54
+  vertex 7.571001 2.411001 1.54
+ endloop
+endfacet
+facet normal 0 0 1
+ outer loop
+  vertex 7.571001 2.411001 1.54
+  vertex 22.571001 1.411001 1.54
+  vertex 22.571001 2.411001 1.54
+ endloop
+endfacet
+facet normal 0 -0 1
+ outer loop
+  vertex 1.5349867 2.0004334 1.54
+  vertex 1.035501 1.7935396 1.54
+  vertex 2.071001 1.751001 1.54
+ endloop
+endfacet
+endsolid freeSurface

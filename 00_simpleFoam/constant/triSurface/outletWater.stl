@@ -1,0 +1,16 @@
+solid outletWater
+facet normal 1 0 -0
+ outer loop
+  vertex 22.571001 1.411001 1.54
+  vertex 22.571001 1.411001 4.440892e-16
+  vertex 22.571001 2.411001 1.54
+ endloop
+endfacet
+facet normal 1 0 -0
+ outer loop
+  vertex 22.571001 2.411001 1.54
+  vertex 22.571001 1.411001 4.440892e-16
+  vertex 22.571001 2.411001 4.440892e-16
+ endloop
+endfacet
+endsolid outletWater
